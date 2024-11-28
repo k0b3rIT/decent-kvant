@@ -32,7 +32,7 @@ Features in each sample:
 https://github.com/k0b3rIT/decent-kvant/blob/main/gbr_notebook.ipynb
 
 
-How to prepair the code for execution
+How to prepare the code for execution
 --------
 1. Clone the repo
 
@@ -91,7 +91,7 @@ Select the `gbr_notebook.ipynb` file, and run the steps
 #### In VSCode (if you have the jupyter plugin installed)
 Select the `gbr_notebook.ipynb` file, and run the steps
 
-How to retrain the model
+How to train the model
 ---------
 Modify the code to adjust the desired symbols to learn on.
 Then execute the following command. 
