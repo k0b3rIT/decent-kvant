@@ -27,6 +27,11 @@ Features in each sample:
 - ticks_until_realization (how far is the current sample is from the realization)
 - bb_previous_realized (Realized rate in the last cycle on Bybit)
 
+
+### You can quickly check the results in this preexecuted jupyter notebook:
+https://github.com/k0b3rIT/decent-kvant/blob/main/gbr_notebook.ipynb
+
+
 How to prepair the code for execution
 --------
 1. Clone the repo
